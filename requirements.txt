@@ -1,0 +1,7 @@
+pandas
+scikit-learn
+tensorflow
+tensorflow-recommenders
+faiss-cpu
+joblib
+
